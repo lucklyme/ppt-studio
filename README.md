@@ -163,12 +163,11 @@ node tests/wps-preview.mjs                  # 可选，需要本机安装 WPS
 
 收款码放在 `docs/sponsor/` 目录：`wechat.png` 为微信，`alipay.png` 为支付宝。打赏完全自愿，不影响任何功能与授权。
 
-<!--
 <p align="center">
-  <img src="docs/sponsor/wechat.png" alt="微信赞赏" width="220">
-  <img src="docs/sponsor/alipay.png" alt="支付宝赞赏" width="220">
+  <img src="docs/sponsor/wechat.jpg" alt="微信赞赏" width="260">
+  &nbsp;&nbsp;
+  <img src="docs/sponsor/alipay.jpg" alt="支付宝赞赏" width="260">
 </p>
--->
 
 ## 许可证
 
