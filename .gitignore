@@ -1,0 +1,24 @@
+# 构建产物
+**/bin/
+**/obj/
+*.dll
+*.pdb
+*.exe
+*.cache
+
+# 运行时数据（用户、页面版本、私有 PPT、密钥、备份）
+data/
+
+# 演示文稿与模板：真实业务素材一律不入库
+*.pptx
+*.ppt
+*.potx
+
+# 本机工具与会话数据
+.workbuddy/
+.vs/
+.vscode/
+*.user
+
+# 日志
+*.log
